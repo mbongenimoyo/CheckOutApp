@@ -1,0 +1,10 @@
+Checkout exercise by Mbongeni Moyo
+=======================================
+inputs :
+--checkout ->provide a list of items you want to be scanned and retrieve a sum total of
+
+--promo ->provide which promotions you want to apply on the checkout (e.g ThreshHold,TwoOrMore)
+
+=================
+Example:
+
